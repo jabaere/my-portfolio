@@ -1,0 +1,11 @@
+Model Information:
+* title:	World v2
+* source:	https://sketchfab.com/3d-models/world-v2-80bde5a4746545559d1c5ca783aea747
+* author:	tmpModel (https://sketchfab.com/tmpModel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "World v2" (https://sketchfab.com/3d-models/world-v2-80bde5a4746545559d1c5ca783aea747) by tmpModel (https://sketchfab.com/tmpModel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
